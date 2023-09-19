@@ -1,1 +1,1 @@
-# eventBus
+- use TypeScript to implement pub/sub
